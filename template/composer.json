@@ -1,7 +1,7 @@
 {
     "name": "{{ vendor | case.kebab }}/{{ package name | case.kebab }}",
     "type": "library",
-    "description": ":{{ package description }}",
+    "description": "{{ package description }}",
     "keywords": [
         "{{ vendor }}",
         "{{ package name }}"
